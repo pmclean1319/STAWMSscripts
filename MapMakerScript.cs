@@ -15,6 +15,7 @@ public class MapMakerScript : MonoBehaviour {
     {
 //        GenerateMap();
 //        This is just a test for Git.
+//        Here's another test for Git.
     }
 
     public void GenerateMap()
